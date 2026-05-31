@@ -1,0 +1,105 @@
+
+A-9 Helljumper
+A-35 Recon
+RS-20 Constrictor
+RS-40 Beast of Prey
+DP-8 Mountain-Scaled
+CPG-48 Sapper
+CW-22 Kodiak
+B-01 Tactical
+TR-7 Ambassador of the Brand
+TR-9 Cavalier of Democracy
+TR-62 Knight
+DP-53 Savior of the Free
+TR-117 Alpha Commander
+SC-37 Legionnaire
+SC-15 Drone Master
+SC-34 Infiltrator
+FS-05 Marksman
+CE-35 Trench Engineer
+CM-09 Bonesnapper
+DP-40 Hero of the Federation
+FS-23 Battle Master
+SC-30 Trailblazer Scout
+SA-04 Combat Technician
+CM-14 Physician
+DP-11 Champion of the People
+SA-25 Steel Trooper
+SA-12 Servo Assisted
+SA-32 Dynamo
+B-24 Enforcer
+CE-74 Breaker
+B-27 Fortified Commando
+FS-38 Eradicator
+B-08 Light Gunner
+FS-61 Dreadnought
+FS-11 Executioner
+CM-21 Trench Paramedic
+CE-81 Juggernaut
+FS-34 Exterminator
+CE-67 Titan
+CM-17 Butcher
+EX-03 Prototype 3
+EX-16 Prototype 16
+EX-00 Prototype X
+CE-27 Ground Breaker
+CE-07 Demolition Specialist
+FS-55 Devastator
+CM-10 Clinician
+FS-37 Ravager
+CW-9 White Wolf
+CE-64 Grenadier
+CW-36 Winter Warrior
+CW-4 Arctic Ranger
+PH-56 Jaguar
+CE-101 Guerilla Gorilla
+PH-9 Predator
+PH-202 Twigsnapper
+TR-40 Gold Eagle
+I-44 Salamander
+I-92 Fire Fighter
+I-09 Heatseeker
+I-102 Draconaught
+AF-52 Lockdown
+AF-91 Field Chemist
+AF-50 Noxious Ranger
+AF-02 Haz-Master
+DP-00 Tactical
+UF-84 Doubt Killer
+UF-50 Bloodhound
+UF-16 Inspector
+SR-64 Cinderblock
+SR-24 Street Scout
+SR-18 Roadblock
+AC-1 Dutiful
+AC-2 Obedient
+IE-57 Hell-Bent
+IE-3 Martyr
+IE-12 Righteous
+B-22 Model Citizen
+GS-11 Democracy's Deputy
+GS-17 Frontier Marshal
+GS-66 Lawmaker
+RE-824 Bearer of the Standard
+RE-2310 Honorary Guard
+RE-1861 Parade Commander
+BP-77 Grand Juror
+BP-20 Correct Officer
+BP-32 Jackboot
+AD-11 Livewire
+AD-26 Bleeding Edge
+AD-49 Apollonian
+DS-10 Big Game Hunter
+DS-42 Federation's Blade
+DS-191 Scorpion
+RS-6 Fiend Destroyer
+RS-100 Sanctioner
+RS-89 Shadow Paragon
+RS-67 Null Cipher
+SA-7 Headfirst
+SA-8 Ram
+CPR-80 Bulwark
+CPH-26 Commandant
+O-44 Bonded Pilot
+O-3 Free Spirit
+O-2 Heavy Operator

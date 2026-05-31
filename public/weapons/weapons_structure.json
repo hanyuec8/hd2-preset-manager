@@ -1,0 +1,125 @@
+{
+    "보조 무기": {
+        "권총": [
+            "M6C_SOCOM Pistol",
+            "P-113 Verdict",
+            "P-19 Redeemer",
+            "P-2 Peacemaker",
+            "P-4 Senator",
+            "P-69 Veto",
+            "P-92 Warrant"
+        ],
+        "근접": [
+            "CQC-19 Stun Lance",
+            "CQC-2 Saber",
+            "CQC-30 Stun Baton",
+            "CQC-42 Machete",
+            "CQC-5 Combat Hatchet",
+            "CQC-73 Entrenchment Tool"
+        ],
+        "특수": [
+            "GP-20 Ultimatum",
+            "GP-31 Grenade Pistol",
+            "LAS-58 Talon",
+            "LAS-7 Dagger",
+            "P-11 Stim Pistol",
+            "P-33 Missile Pistol",
+            "P-35 Re-Educator",
+            "P-72 Crisper",
+            "PLAS-15 Loyalist",
+            "SG-22 Bushwhacker"
+        ]
+    },
+    "주 무기": {
+        "기관단총": [
+            "M7S SMG",
+            "MP-98 Knight",
+            "SMG-203 Gallant",
+            "SMG-32 Reprimand",
+            "SMG-37 Defender",
+            "SMG-72 Pummeler",
+            "SMG_FLAM-34 Stoker",
+            "StA-11 SMG"
+        ],
+        "돌격 소총": [
+            "AR-2 Coyote",
+            "AR-23 Liberator",
+            "AR-23A Liberator Carbine",
+            "AR-23C Liberator Concussive",
+            "AR-23P Liberator Penetrator",
+            "AR-32 Pacifier",
+            "AR-59 Suppressor",
+            "AR-61 Tenderizer",
+            "AR_GL-21 One-Two",
+            "BR-14 Adjudicator",
+            "MA5C Assault Rifle",
+            "StA-52 Assault Rifle"
+        ],
+        "산탄총": [
+            "DBS-2 Double Freedom",
+            "M90A Shotgun",
+            "SG-20 Halt",
+            "SG-225 Breaker",
+            "SG-225IE Breaker Incendiary",
+            "SG-225SP Breaker Spray&Pray",
+            "SG-451 Cookout",
+            "SG-8 Punisher",
+            "SG-8S Slugger",
+            "SG-97 Sweeper"
+        ],
+        "에너지계": [
+            "ARC-12 Blitzer",
+            "LAS-13 Trident",
+            "LAS-16 Sickle",
+            "LAS-17 Double-Edge Sickle",
+            "LAS-5 Scythe",
+            "PLAS-1 Scorcher",
+            "PLAS-101 Purifier",
+            "PLAS-39 Accelerator Rifle",
+            "SG-8P Punisher Plasma"
+        ],
+        "지정사수소총": [
+            "R-2 Amendment",
+            "R-2124 Constitution",
+            "R-6 Deadeye",
+            "R-63 Diligence",
+            "R-63CS Diligence Counter Sniper",
+            "R-72 Censor"
+        ],
+        "특수": [
+            "FLAM-66 Torcher",
+            "JAR-5 Dominator",
+            "VG-70 Variable"
+        ],
+        "폭발성": [
+            "CB-9 Exploding Crossbow",
+            "R-36 Eruptor"
+        ]
+    },
+    "투척 무기": {
+        "특수": [
+            "G-109 Urchin",
+            "G-123 Thermite",
+            "G-13 Incendiary Impact",
+            "G-142 Pyrotech",
+            "G-16 Impact",
+            "G-23 Stun",
+            "G-3 Smoke",
+            "G-31 Arc",
+            "G-4 Gas",
+            "G-48 Giga Grenade",
+            "G-50 Seeker",
+            "G-89 Smokescreen",
+            "G_SH-39 Shield",
+            "K-2 Throwing Knife",
+            "TM-1 Lure Mine"
+        ],
+        "표준": [
+            "G-10 Incendiary",
+            "G-12 High Explosive",
+            "G-6 Frag",
+            "G-7 Pineapple",
+            "TED-63 Dynamite"
+        ]
+    }
+}

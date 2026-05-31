@@ -1,0 +1,507 @@
+[
+    {
+        "type": "Light",
+        "name": "SC-37 Legionnaire",
+        "passive_effect": "Servo-Assisted"
+    },
+    {
+        "type": "Light",
+        "name": "SC-34 Infiltrator",
+        "passive_effect": "Scout"
+    },
+    {
+        "type": "Light",
+        "name": "SC-30 Trailblazer Scout",
+        "passive_effect": "Scout"
+    },
+    {
+        "type": "Light",
+        "name": "CE-74 Breaker",
+        "passive_effect": "Engineering Kit"
+    },
+    {
+        "type": "Light",
+        "name": "FS-38 Eradicator",
+        "passive_effect": "Fortified"
+    },
+    {
+        "type": "Light",
+        "name": "B-08 Light Gunner",
+        "passive_effect": "Extra Padding"
+    },
+    {
+        "type": "Light",
+        "name": "CM-21 Trench Paramedic",
+        "passive_effect": "Med-Kit"
+    },
+    {
+        "type": "Light",
+        "name": "CE-67 Titan",
+        "passive_effect": "Engineering Kit"
+    },
+    {
+        "type": "Light",
+        "name": "EX-00 Prototype X",
+        "passive_effect": "Electrical Conduit"
+    },
+    {
+        "type": "Light",
+        "name": "CE-07 Demolition Specialist",
+        "passive_effect": "Engineering Kit"
+    },
+    {
+        "type": "Light",
+        "name": "FS-37 Ravager",
+        "passive_effect": "Engineering Kit"
+    },
+    {
+        "type": "Light",
+        "name": "CW-4 Arctic Ranger",
+        "passive_effect": "Scout"
+    },
+    {
+        "type": "Light",
+        "name": "PH-9 Predator",
+        "passive_effect": "Peak Physique"
+    },
+    {
+        "type": "Light",
+        "name": "I-09 Heatseeker",
+        "passive_effect": "Inflammable"
+    },
+    {
+        "type": "Light",
+        "name": "AF-50 Noxious Ranger",
+        "passive_effect": "Advanced Filtration"
+    },
+    {
+        "type": "Light",
+        "name": "UF-16 Inspector",
+        "passive_effect": "Unflinching"
+    },
+    {
+        "type": "Light",
+        "name": "SR-24 Street Scout",
+        "passive_effect": "Siege-Ready"
+    },
+    {
+        "type": "Light",
+        "name": "AC-2 Obedient",
+        "passive_effect": "Acclimated"
+    },
+    {
+        "type": "Light",
+        "name": "IE-57 Hell-Bent",
+        "passive_effect": "Integrated Explosives"
+    },
+    {
+        "type": "Light",
+        "name": "GS-11 Democracy's Deputy",
+        "passive_effect": "Gunslinger"
+    },
+    {
+        "type": "Light",
+        "name": "RE-1861 Parade Commander",
+        "passive_effect": "Reinforced Epaulettes"
+    },
+    {
+        "type": "Light",
+        "name": "BP-32 Jackboot",
+        "passive_effect": "Ballistic Padding"
+    },
+    {
+        "type": "Light",
+        "name": "AD-11 Livewire",
+        "passive_effect": "Adreno-Defibrillator"
+    },
+    {
+        "type": "Light",
+        "name": "DS-10 Big Game Hunter",
+        "passive_effect": "Desert Stormer"
+    },
+    {
+        "type": "Light",
+        "name": "RS-20 Constrictor",
+        "passive_effect": "Rock Solid"
+    },
+    {
+        "type": "Light",
+        "name": "RS-100 Sanctioner",
+        "passive_effect": "Reduced Signature"
+    },
+    {
+        "type": "Light",
+        "name": "RS-89 Shadow Paragon",
+        "passive_effect": "Reduced Signature"
+    },
+    {
+        "type": "Light",
+        "name": "CPH-26 Commandant",
+        "passive_effect": "Concussive Padding, Hazmat"
+    },
+    {
+        "type": "Medium",
+        "name": "B-01 Tactical",
+        "passive_effect": "Extra Padding"
+    },
+    {
+        "type": "Medium",
+        "name": "TR-7 Ambassador of the Brand",
+        "passive_effect": "Extra Padding"
+    },
+    {
+        "type": "Medium",
+        "name": "TR-9 Cavalier of Democracy",
+        "passive_effect": "Democracy Protects"
+    },
+    {
+        "type": "Medium",
+        "name": "DP-53 Savior of the Free",
+        "passive_effect": "Democracy Protects"
+    },
+    {
+        "type": "Medium",
+        "name": "TR-117 Alpha Commander",
+        "passive_effect": "Med-Kit"
+    },
+    {
+        "type": "Medium",
+        "name": "SC-15 Drone Master",
+        "passive_effect": "Engineering Kit"
+    },
+    {
+        "type": "Medium",
+        "name": "CE-35 Trench Engineer",
+        "passive_effect": "Engineering Kit"
+    },
+    {
+        "type": "Medium",
+        "name": "CM-09 Bonesnapper",
+        "passive_effect": "Med-Kit"
+    },
+    {
+        "type": "Medium",
+        "name": "DP-40 Hero of the Federation",
+        "passive_effect": "Democracy Protects"
+    },
+    {
+        "type": "Medium",
+        "name": "SA-04 Combat Technician",
+        "passive_effect": "Scout"
+    },
+    {
+        "type": "Medium",
+        "name": "CM-14 Physician",
+        "passive_effect": "Med-Kit"
+    },
+    {
+        "type": "Medium",
+        "name": "DP-11 Champion of the People",
+        "passive_effect": "Democracy Protects"
+    },
+    {
+        "type": "Medium",
+        "name": "SA-25 Steel Trooper",
+        "passive_effect": "Servo-Assisted"
+    },
+    {
+        "type": "Medium",
+        "name": "SA-12 Servo Assisted",
+        "passive_effect": "Servo-Assisted"
+    },
+    {
+        "type": "Medium",
+        "name": "B-24 Enforcer",
+        "passive_effect": "Fortified"
+    },
+    {
+        "type": "Medium",
+        "name": "CE-81 Juggernaut",
+        "passive_effect": "Engineering Kit"
+    },
+    {
+        "type": "Medium",
+        "name": "FS-34 Exterminator",
+        "passive_effect": "Fortified"
+    },
+    {
+        "type": "Medium",
+        "name": "EX-03 Prototype 3",
+        "passive_effect": "Electrical Conduit"
+    },
+    {
+        "type": "Medium",
+        "name": "EX-16 Prototype 16",
+        "passive_effect": "Electrical Conduit"
+    },
+    {
+        "type": "Medium",
+        "name": "CE-27 Ground Breaker",
+        "passive_effect": "Engineering Kit"
+    },
+    {
+        "type": "Medium",
+        "name": "CM-10 Clinician",
+        "passive_effect": "Med-Kit"
+    },
+    {
+        "type": "Medium",
+        "name": "CW-9 White Wolf",
+        "passive_effect": "Extra Padding"
+    },
+    {
+        "type": "Medium",
+        "name": "PH-56 Jaguar",
+        "passive_effect": "Peak Physique"
+    },
+    {
+        "type": "Medium",
+        "name": "TR-40 Gold Eagle",
+        "passive_effect": "Extra Padding"
+    },
+    {
+        "type": "Medium",
+        "name": "I-92 Fire Fighter",
+        "passive_effect": "Inflammable"
+    },
+    {
+        "type": "Medium",
+        "name": "I-102 Draconaught",
+        "passive_effect": "Inflammable"
+    },
+    {
+        "type": "Medium",
+        "name": "AF-91 Field Chemist",
+        "passive_effect": "Advanced Filtration"
+    },
+    {
+        "type": "Medium",
+        "name": "AF-02 Haz-Master",
+        "passive_effect": "Advanced Filtration"
+    },
+    {
+        "type": "Medium",
+        "name": "DP-00 Tactical",
+        "passive_effect": "Democracy Protects"
+    },
+    {
+        "type": "Medium",
+        "name": "UF-84 Doubt Killer",
+        "passive_effect": "Unflinching"
+    },
+    {
+        "type": "Medium",
+        "name": "UF-50 Bloodhound",
+        "passive_effect": "Unflinching"
+    },
+    {
+        "type": "Medium",
+        "name": "AC-1 Dutiful",
+        "passive_effect": "Acclimated"
+    },
+    {
+        "type": "Medium",
+        "name": "IE-3 Martyr",
+        "passive_effect": "Integrated Explosives"
+    },
+    {
+        "type": "Medium",
+        "name": "IE-12 Righteous",
+        "passive_effect": "Integrated Explosives"
+    },
+    {
+        "type": "Medium",
+        "name": "B-22 Model Citizen",
+        "passive_effect": "Democracy Protects"
+    },
+    {
+        "type": "Medium",
+        "name": "GS-17 Frontier Marshal",
+        "passive_effect": "Gunslinger"
+    },
+    {
+        "type": "Medium",
+        "name": "RE-2310 Honorary Guard",
+        "passive_effect": "Reinforced Epaulettes"
+    },
+    {
+        "type": "Medium",
+        "name": "BP-20 Correct Officer",
+        "passive_effect": "Ballistic Padding"
+    },
+    {
+        "type": "Medium",
+        "name": "AD-26 Bleeding Edge",
+        "passive_effect": "Adreno-Defibrillator"
+    },
+    {
+        "type": "Medium",
+        "name": "A-9 Helljumper",
+        "passive_effect": "Feet First"
+    },
+    {
+        "type": "Medium",
+        "name": "A-35 Recon",
+        "passive_effect": "Feet First"
+    },
+    {
+        "type": "Medium",
+        "name": "DS-191 Scorpion",
+        "passive_effect": "Desert Stormer"
+    },
+    {
+        "type": "Medium",
+        "name": "RS-6 Fiend Destroyer",
+        "passive_effect": "Rock Solid"
+    },
+    {
+        "type": "Medium",
+        "name": "RS-67 Null Cipher",
+        "passive_effect": "Reduced Signature"
+    },
+    {
+        "type": "Medium",
+        "name": "SA-7 Headfirst",
+        "passive_effect": "Supplementary Adrenaline"
+    },
+    {
+        "type": "Medium",
+        "name": "DP-8 Mountain-Scaled",
+        "passive_effect": "Siege-Ready"
+    },
+    {
+        "type": "Medium",
+        "name": "CPG-48 Sapper",
+        "passive_effect": "Concussive Padding, Grenadier"
+    },
+    {
+        "type": "Heavy",
+        "name": "TR-62 Knight",
+        "passive_effect": "Servo-Assisted"
+    },
+    {
+        "type": "Heavy",
+        "name": "FS-05 Marksman",
+        "passive_effect": "Fortified"
+    },
+    {
+        "type": "Heavy",
+        "name": "FS-23 Battle Master",
+        "passive_effect": "Fortified"
+    },
+    {
+        "type": "Heavy",
+        "name": "SA-32 Dynamo",
+        "passive_effect": "Servo-Assisted"
+    },
+    {
+        "type": "Heavy",
+        "name": "B-27 Fortified Commando",
+        "passive_effect": "Extra Padding"
+    },
+    {
+        "type": "Heavy",
+        "name": "FS-61 Dreadnought",
+        "passive_effect": "Servo-Assisted"
+    },
+    {
+        "type": "Heavy",
+        "name": "FS-11 Executioner",
+        "passive_effect": "Fortified"
+    },
+    {
+        "type": "Heavy",
+        "name": "CM-17 Butcher",
+        "passive_effect": "Med-Kit"
+    },
+    {
+        "type": "Heavy",
+        "name": "FS-55 Devastator",
+        "passive_effect": "Fortified"
+    },
+    {
+        "type": "Heavy",
+        "name": "CE-64 Grenadier",
+        "passive_effect": "Engineering Kit"
+    },
+    {
+        "type": "Heavy",
+        "name": "CW-36 Winter Warrior",
+        "passive_effect": "Servo-Assisted"
+    },
+    {
+        "type": "Heavy",
+        "name": "CW-22 Kodiak",
+        "passive_effect": "Fortified"
+    },
+    {
+        "type": "Heavy",
+        "name": "CE-101 Guerilla Gorilla",
+        "passive_effect": "Engineering Kit"
+    },
+    {
+        "type": "Heavy",
+        "name": "PH-202 Twigsnapper",
+        "passive_effect": "Peak Physique"
+    },
+    {
+        "type": "Heavy",
+        "name": "I-44 Salamander",
+        "passive_effect": "Inflammable"
+    },
+    {
+        "type": "Heavy",
+        "name": "AF-52 Lockdown",
+        "passive_effect": "Advanced Filtration"
+    },
+    {
+        "type": "Heavy",
+        "name": "SR-64 Cinderblock",
+        "passive_effect": "Siege-Ready"
+    },
+    {
+        "type": "Heavy",
+        "name": "SR-18 Roadblock",
+        "passive_effect": "Siege-Ready"
+    },
+    {
+        "type": "Heavy",
+        "name": "GS-66 Lawmaker",
+        "passive_effect": "Gunslinger"
+    },
+    {
+        "type": "Heavy",
+        "name": "RE-824 Bearer of the Standard",
+        "passive_effect": "Reinforced Epaulettes"
+    },
+    {
+        "type": "Heavy",
+        "name": "BP-77 Grand Juror",
+        "passive_effect": "Ballistic Padding"
+    },
+    {
+        "type": "Heavy",
+        "name": "AD-49 Apollonian",
+        "passive_effect": "Adreno-Defibrillator"
+    },
+    {
+        "type": "Heavy",
+        "name": "DS-42 Federation's Blade",
+        "passive_effect": "Desert Stormer"
+    },
+    {
+        "type": "Heavy",
+        "name": "RS-40 Beast of Prey",
+        "passive_effect": "Rock Solid"
+    },
+    {
+        "type": "Heavy",
+        "name": "SA-8 Ram",
+        "passive_effect": "Supplementary Adrenaline"
+    },
+    {
+        "type": "Heavy",
+        "name": "CPR-80 Bulwark",
+        "passive_effect": "Concussive Padding, Reinforced"
+    }
+]
